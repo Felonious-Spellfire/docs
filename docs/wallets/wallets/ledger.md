@@ -32,6 +32,8 @@ This guide will walk through using Helium on a Ledger Nano S.
 The Helium App has been signed by Ledger and is trusted. It is now installed on
 your ledger device!
 
+NOTE: Close the Ledger Live app on your PC/laptop before running any of the CLI commands.
+
 Start the Helium app by selecting it on the Ledger screen. The "Waiting for
 commands..." prompt should be on the screen. execute commands.
 
